@@ -1,0 +1,11 @@
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\bin\x64\Debug\ddsDemo2.exe.config
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\bin\x64\Debug\ddsDemo2.exe
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\bin\x64\Debug\ddsDemo2.pdb
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.Form1.resources
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.Properties.Resources.resources
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.csproj.GenerateResource.cache
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.csproj.CoreCompileInputs.cache
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.exe
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.pdb
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.csproj.CopyComplete
+D:\SourceCode\Winform\ddsDemo2\ddsDemo2\obj\x64\Debug\ddsDemo2.csproj.AssemblyReference.cache
